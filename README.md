@@ -1,16 +1,8 @@
 # gerador_versiculo
 
-A new Flutter project.
+Aplicativo Flutter com intuito acadêmico.
 
-## Getting Started
+Esse aplicativo foi usado como demonstração em uma aula que lecionei, onde foi ensinado alguns dos widgets básicos do Flutter em si, e também um pouco de lógica de programação para iniciantes na programação.
+É um aplicativo simples, mas que trabalha com a criação de métodos, criar strings randomicas, e packages para compartilhamento de dados. Assim como também a divisão do aplivativo em partes separadas e organizadas, deixando o código mais limpo.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![bible_verse](https://user-images.githubusercontent.com/53340410/111237848-adc71b00-85d4-11eb-84a1-9f8f11a386a6.gif)
